@@ -12,11 +12,11 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Introduction And How To Get RStudio",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "1.1 What is R and RStudio\nThis is a book created from markdown and executable code. In some sections you will find executable code in the R programming language. These will look like this:\nIf you press the green arrow the code in the section will ‘run’ and produce an answer. The example above is just a toy example, in later sections of the book you will be able to do more complex analysis and create plots etc. You can also use these code snippits to build your own analysis pipelines by copy/pasting them.\nHowever, this first chapter is all about how to access RStudio and what it is.\nR is a programming language that we use in Psychology and Neuroscience at Goldsmiths to teach students how to analyse data, generate plots, and conduct statistical analysis.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction And How To Get RStudio</span>"
     ]
   },
   {

@@ -1,9 +1,25 @@
-# Introduction
+# Introduction And How To Get RStudio
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
+This is a book created from markdown and executable code. In some sections you 
+will find executable code in the R programming language. These will look like 
+this:
 
 ```{r}
 1 + 1
 ```
+
+If you press the green arrow the code in the section will 'run' and produce an 
+answer. The example above is just a toy example, in later sections of the book
+you will be able to do more complex analysis and create plots etc. You can also
+use these code snippits to build your own analysis pipelines by copy/pasting 
+them.
+
+However, this first chapter is all about how to access RStudio and what it is.
+
+## What is R and RStudio
+
+R is a programming language that we use in Psychology and Neuroscience at
+Goldsmiths to teach students how to analyse data, generate plots, and conduct
+statistical analysis.
+
+

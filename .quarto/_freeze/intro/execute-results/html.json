@@ -1,8 +1,8 @@
 {
-  "hash": "e514ad799b2b10ced9d02b36ca26bbd2",
+  "hash": "27bc0c920eb45eb1f1810cb509b860d6",
   "result": {
     "engine": "knitr",
-    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "markdown": "# Introduction And How To Get RStudio\n\nThis is a book created from markdown and executable code. In some sections you \nwill find executable code in the R programming language. These will look like \nthis:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nIf you press the green arrow the code in the section will 'run' and produce an \nanswer. The example above is just a toy example, in later sections of the book\nyou will be able to do more complex analysis and create plots etc. You can also\nuse these code snippits to build your own analysis pipelines by copy/pasting \nthem.\n\nHowever, this first chapter is all about how to access RStudio and what it is.\n\n## What is R and RStudio\n\nR is a programming language that we use in Psychology and Neuroscience at\nGoldsmiths to teach students how to analyse data, generate plots, and conduct\nstatistical analysis.\n\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
